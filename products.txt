@@ -1,0 +1,5 @@
+100,apple,15000,20
+101,watermelon,20000,100
+102,orange,25000,30
+103,cucumber,20000,25
+104,pomegranate,23000,50
