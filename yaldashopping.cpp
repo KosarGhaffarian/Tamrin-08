@@ -3,8 +3,8 @@
 #include <string>
 using namespace std;
 int choice = 0;
-int k=0;
-int n;
+int n, k=0;
+
 
 
 struct product_info
